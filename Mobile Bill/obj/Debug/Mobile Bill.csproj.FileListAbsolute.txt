@@ -5,3 +5,10 @@ C:\Users\rezau\source\repos\Mobile Bill\Mobile Bill\obj\Debug\Mobile Bill.csproj
 C:\Users\rezau\source\repos\Mobile Bill\Mobile Bill\obj\Debug\Mobile Bill.csproj.CoreCompileInputs.cache
 C:\Users\rezau\source\repos\Mobile Bill\Mobile Bill\obj\Debug\Mobile Bill.exe
 C:\Users\rezau\source\repos\Mobile Bill\Mobile Bill\obj\Debug\Mobile Bill.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\bin\Debug\Mobile Bill.exe.config
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\bin\Debug\Mobile Bill.exe
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\bin\Debug\Mobile Bill.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\obj\Debug\Mobile Bill.csprojAssemblyReference.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\obj\Debug\Mobile Bill.csproj.CoreCompileInputs.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\obj\Debug\Mobile Bill.exe
+C:\Users\rezau\OneDrive\Documents\GitHub\C-Console-Application\Mobile Bill\obj\Debug\Mobile Bill.pdb

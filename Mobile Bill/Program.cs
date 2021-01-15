@@ -13,10 +13,12 @@ namespace Mobile_Bill
         { 
             Console.WriteLine("Enter a date: ");
             DateTime Starttime;
-            bool datecheck = false;
+            bool Startdatecheck = false;
+            bool Enddatecheck = false;
+
             if (DateTime.TryParse(Console.ReadLine(), out Starttime))
             {
-                datecheck = true;
+                Startdatecheck = true;
             }
             else
             {
@@ -27,14 +29,15 @@ namespace Mobile_Bill
             DateTime Endtime;
             if (DateTime.TryParse(Console.ReadLine(), out Endtime))
             {
-                datecheck = true;
+                Enddatecheck = true;
             }
             else
             {
+         
                 Console.WriteLine("You have entered an incorrect value.");
             }
 
-            if(datecheck == true)
+            if(Startdatecheck == true && Enddatecheck == true)
             {
                 var diff = System.Math.Abs((Endtime - Starttime).TotalSeconds);
                 var TotalAmount = 0;
@@ -59,6 +62,8 @@ namespace Mobile_Bill
             else
             {
                 Console.WriteLine("You have entered an incorrect value.");
+                Console.ReadLine();
+
             }
         }
 
